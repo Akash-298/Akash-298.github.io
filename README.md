@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Shubham Patil</h1>
+<h1 align="center">Hi 👋, I am Akash Chikhalonde</h1>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
@@ -24,7 +24,7 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 
 ⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1arR68mJs-aLW1Nn_xY-EU7lXlZzptrxa/view?usp=sharing)<br>
 
-Want to know more about me? [Check out My Portfolio](https://spp96.github.io/)
+Want to know more about me? [Check out My Portfolio](https://Akash-298.github.io/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhampatil6670sp)
