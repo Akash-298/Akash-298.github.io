@@ -1,33 +1,3 @@
-Akash-298.github.io
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-
-@Akash-298
-Akash-298
-/
-Akash-298.github.io
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Akash-298.github.io/README.md
-@Akash-298
-Akash-298 Update README.md
-Latest commit 5d2ff92 on Oct 28, 2022
-History
-1 contributor
-51 lines (37 sloc) 4.13 KB
 
 <h1 align="center">Hi 👋, I am Akash Chikhalonde</h1>
 <div align="center">
@@ -51,17 +21,17 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 ⚡ Quick learner<br>
 💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
 
-📫 How to reach me: shubhamppatil1996@gmail.com <br>
+📫 How to reach me: akash.c.c298@gmail.com <br>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1arR68mJs-aLW1Nn_xY-EU7lXlZzptrxa/view?usp=sharing)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1p4sebEV_btQMQUIodNFg904IqhUEgM6p/view?usp=sharing)<br>
 
 Want to know more about me? [Check out My Portfolio](https://Akash-298.github.io/)
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhampatil6670sp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-patil-045478206/)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/sp7004358_patil)
+
+[![LinkedIn]()
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/akash_c298?t=DWrn6-q540bvZlKgpliwGQ&s=09)
 
 # 💻 Tech Stack:
 
@@ -69,9 +39,9 @@ Want to know more about me? [Check out My Portfolio](https://Akash-298.github.io
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=spp96&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spp96&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spp96&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Akash-298&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akash-298&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-298&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
@@ -79,25 +49,10 @@ Want to know more about me? [Check out My Portfolio](https://Akash-298.github.io
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=spp96&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Akash-298&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!---
 spp96/spp96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Akash-298.github.io/README.md at master · Akash-298/Akash-298.github.io
