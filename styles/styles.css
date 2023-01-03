@@ -23,7 +23,7 @@
 
 .light-mode {
   --color-primary: #ffffff;
-  --color-secondary: rgb(245, 119, 9);
+  --color-secondary: rgb(184,221,230);
   --color-white: #454e56;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -857,4 +857,3 @@ section {
     font-size: 4rem;
   }
 }
-
