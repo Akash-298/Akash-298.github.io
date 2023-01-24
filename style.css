@@ -94,6 +94,7 @@ section .title::after {
 .navbar {
   position: fixed;
   width: 100%;
+  background: rgba(55, 62, 64, 0.499);
   z-index: 999;
   padding: 30px 0;
   font-family: "Ubuntu", sans-serif;
@@ -857,6 +858,7 @@ footer span a:hover {
 
 .github-stats-list {
   display: grid;
+
   grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
   margin-top: 50px;
   grid-gap: 40px;
@@ -919,6 +921,7 @@ footer span a:hover {
 
   .github-stats-list {
     display: grid;
+
     grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
     margin-top: 50px;
     grid-gap: 40px;
@@ -1016,16 +1019,18 @@ footer span a:hover {
   border: 2px solid rgb(18, 115, 139);
   /* transition: all 0.3s ease; */
 }
-#ree:hover {
+#ree:hover,
+#ree a:hover {
   color: rgb(18, 115, 139);
-  background: black;
+  background: none;
 }
 
 a {
   text-decoration: none;
   color: whitesmoke;
 }
-
+#ree a {
+}
 .soft > hr {
   margin: auto;
   width: 250px;
